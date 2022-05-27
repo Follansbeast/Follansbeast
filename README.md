@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Follansbeast
-- 👀 I’m interested in ... robotics and controls
+- 👀 I’m interested in ... robotics and industrial controls
 - 🌱 I’m currently learning ... statistical methods for object calibration, vision integration into automated systems, machine learning, ethernet/IP communication, PLC and industrial control systems
 - 💞️ I’m looking to collaborate on ... open to anything at this point
 - 📫 How to reach me ... 
